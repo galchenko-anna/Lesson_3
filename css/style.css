@@ -1,0 +1,43 @@
+*{
+    color: gray;
+}
+.description {
+    color:gold;
+}
+p{
+    color:black;
+}
+h2{
+    color:brown;
+}
+.blue-text{
+    color:blue;
+}
+#population{
+    color:green;
+}
+div.blue-text{
+    color:lightblue;
+}
+.gallery-item.blue-text{
+    color:blueviolet;
+}
+.gallery-item,
+.text-block{
+    color:rgb(37, 37, 37);
+}
+.text-block li{
+    color:darkgreen;
+}
+.list-element *{
+    color:darkred;
+}
+.vidi > p{
+    color:blue;
+}
+.vidi-text ~ p{
+    color: red;
+}
+.vidi-text-second + p{
+    color:aquamarine;
+}
